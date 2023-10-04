@@ -1,3 +1,8 @@
+# Veri Seti için:
+
+## https://www.kaggle.com/datasets/daveianhickey/2000-16-traffic-flow-england-scotland-wales/download?datasetVersionNumber=10
+## Local UK Authorities data (uk_lad.geojson) : https://files.planning.data.gov.uk/dataset/local-authority-district.geojson
+
 # UK_accidents
 
 03.10.2023:
