@@ -60,9 +60,9 @@ https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles
 
     Veri görselleştirmedeki hatalar düzeltildi. Bir kaç tane daha grafik görselleştirme eklendi.
 
-    Kaza noktaları harita üzerine yerleştirildi. Harita görselleştirmeleri ve Kümeleme örneği yapıldı.
+    Kaza noktaları harita üzerine yerleştirildi. Harita görselleştirmeleri yapıldı.
 
-    
+    Veri setinden bir bölge üzerinde K-Means ve DBSCAN ile kümeleme işlemleri yapıldı ve görselleştirildi.
 
 06.10.2023:
 
