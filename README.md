@@ -8,6 +8,7 @@
 ### Classification of injury severity using the CRaSH reporting system
 
 | Accident Severity | Database Value |
+| ----------------- | -------------- |
 | Killed | 1 |
 | Serious | 2 |
 | Slight | 3 |
