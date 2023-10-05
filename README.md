@@ -15,6 +15,7 @@
 *Table 3: Classification of injury severity using the CRaSH reporting system
 
 | Injury in CRASH | Detailed severity | Severity classification |
+| --------------- | ----------------- | ----------------------- |
 | Deceased | Killed | Killed |
 | Broken neck or back |	Very Serious | Serious |
 | Severe head injury, unconscious | Very Serious | Serious |
