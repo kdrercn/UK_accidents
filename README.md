@@ -3,13 +3,13 @@
 ## https://www.kaggle.com/datasets/daveianhickey/2000-16-traffic-flow-england-scotland-wales/download?datasetVersionNumber=10
 ## Local UK Authorities data (uk_lad.geojson) : https://files.planning.data.gov.uk/dataset/local-authority-district.geojson
 
+### Classification of injury severity using the CRaSH reporting system
+
 ## Sources : 
 
 https://www.gov.uk/government/publications/guide-to-severity-adjustments-for-reported-road-casualty-statistics/guide-to-severity-adjustments-for-reported-road-casualties-great-britain
 
 https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles
-
-### Classification of injury severity using the CRaSH reporting system
 
 | Accident Severity | Database Value |
 | ----------------- | -------------- |
