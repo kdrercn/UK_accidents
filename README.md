@@ -55,4 +55,15 @@ https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles
     Veri temizlemeleri yapıldı: Tekrarlayan veriler silindi, boş veriler ya silindi ya da yerlerine "belirtilmemiş" gibi değerler girildi.
 
     Temizlenen veri setinde görselleştirme yapılarak veri anlamlandırıldı.
-     
+
+05.10.2023:
+
+    Veri görselleştirmedeki hatalar düzeltildi. Bir kaç tane daha grafik görselleştirme eklendi.
+
+    Kaza noktaları harita üzerine yerleştirildi. Harita görselleştirmeleri ve Kümeleme örneği yapıldı.
+
+    
+
+06.10.2023:
+
+    -> Apriori ve ECLAT algoritması hakkında bilgi edinildi.
