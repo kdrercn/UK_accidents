@@ -45,19 +45,19 @@ https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles
 ***Algoritmalar***
 ------------------
 **Jenks Natural Breaks**
-
+------------------
 Jenks Natural Breaks ya da Jenks Natural Breaks Sınıflandırma Metodu, veri değerlerini farklı sınıflara en iyi şekilde kümelemek için tasarlanmıştır.
 
 Metod bu işlemi her sınıfın diğer sınıfların ortalamasından sapmasını maksimuma çıkarırken, her sınıfın sınıf  ortalamasından ortalama sapmasını en aza indirmeye çalışarak yapar.
 
 **Apriori Algoritması**
-
+------------------
 Bu algoritma temelinde iteratif (tekrarlayan) bir niteliğe sahiptir ve hareket bilgileri içeren veri tabanlarında sık geçen öğe kümelerinin keşfedilmesinde kullanılır.
 
 Birliktelik kuralı madenciliği, tüm sık geçen öğelerin bulunması ve sık geçen bu öğelerden güçlü birliktelik kurallarının üretilmesi olmak üzere iki aşamalıdır.
 
 **ECLAT Algoritması**
-
+------------------
 Apriori algoritması ile benzer çalışır. Apriori algoritmasında eleman bazlı işlem (alışveriş sepetindeki ürün 1,2,3 gibi) yapılır ancak Eclat algoritmasında elemanların geçtiği kayıtlar ( alışveriş sepeti 100,200,.. ) baz alınır. Apriori yöntemine göre daha küçük veri setleri için uygundur. Apriori algoritmasına göre çok hızlıdır.
 
 # UK_accidents logs
