@@ -43,7 +43,7 @@ https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles
 | Shock	| Slight |Slight |
 
 ***Algoritmalar***
-
+------------------
 **Jenks Natural Breaks**
 
 Jenks Natural Breaks ya da Jenks Natural Breaks Sınıflandırma Metodu, veri değerlerini farklı sınıflara en iyi şekilde kümelemek için tasarlanmıştır.
