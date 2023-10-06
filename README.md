@@ -66,4 +66,6 @@ https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles
 
 06.10.2023:
 
-    -> Apriori ve ECLAT algoritması hakkında bilgi edinildi.
+    Kümeleme görselleştirmeleri kullanıcının gireceği şehir adıyla oluşturuldu.
+
+    Jenks Natural Breaks, Apriori ve ECLAT algoritması hakkında bilgi edinildi.
