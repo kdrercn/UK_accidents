@@ -87,3 +87,9 @@ Apriori algoritması ile benzer çalışır. Apriori algoritmasında eleman bazl
     Kümeleme görselleştirmeleri kullanıcının gireceği şehir adıyla oluşturuldu.
 
     Jenks Natural Breaks, Apriori ve ECLAT algoritması hakkında bilgi edinildi.
+
+to-do:
+
+    One Hot Encoding - https://www.kaggle.com/code/devansodariya/uk-road-safety-accident-analysis
+
+    Algoritmaların uygulanması
