@@ -42,7 +42,7 @@ https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles
 | Bruising | Slight | Slight |
 | Shock	| Slight |Slight |
 
-*** Algoritmalar ***
+***Algoritmalar***
 
 **Jenks Natural Breaks**
 
