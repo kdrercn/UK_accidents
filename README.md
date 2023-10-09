@@ -42,6 +42,44 @@ https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles
 | Bruising | Slight | Slight |
 | Shock	| Slight |Slight |
 
+
+**Işıklandırma**
+--------------------
+| Veri | Mapping |
+| --------------- | ----------------- | 
+| Daylight: Street light present | 0 | 
+| Darkness: Street lights present and lit |1 | 
+| Darkness: Street lighting unknown | 2 |
+| Darkness: Street lights present but unlit | 2 |
+| Darkeness: No street lighting | 2 |
+
+**Hava Durumu**
+----------------
+| Veri | Mapping |
+| --------------- | ----------------- | 
+| Raining without high winds | No High winds | 
+| Fine without high winds | No High winds | 
+| Snowing without high winds | No High winds |
+| Other | No High winds |
+| Fine with high winds | High winds |
+| Raining with high winds | High winds |
+| Fog or mist | Fog |
+| Snowing with high winds | High winds |
+
+| No High wind | 0 |
+| High winds | 2 |
+| Fog | 0 |
+| Unknown | 0 |
+
+**Yol Yüzey Durumu**
+----------------
+| Dry | 5 |
+| Wet/Damp | 4 |
+| Frost/Ice | 3 |
+| Snow | 2 |
+| Flood (Over 3cm of water) | 1 |
+| Not Specified | 0 |
+
 ***Algoritmalar***
 ------------------
 **Jenks Natural Breaks**
@@ -88,8 +126,10 @@ Apriori algoritması ile benzer çalışır. Apriori algoritmasında eleman bazl
 
     Jenks Natural Breaks, Apriori ve ECLAT algoritması hakkında bilgi edinildi.
 
-to-do:
+09.10.2023:
 
-    One Hot Encoding - https://www.kaggle.com/code/devansodariya/uk-road-safety-accident-analysis
+    Önceki yapılan işlemler kontrol edildi ve eklemeler yapıldı.
 
-    Algoritmaların uygulanması
+    Korelasyon ve algoritma işlemleri için One Hot Encoding yapıldı.
+
+    
