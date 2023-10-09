@@ -66,6 +66,8 @@ https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles
 | Fog or mist | Fog |
 | Snowing with high winds | High winds |
 
+| Veri | Mapping |
+| --------------- | ----------------- | 
 | No High wind | 0 |
 | High winds | 2 |
 | Fog | 0 |
@@ -73,6 +75,9 @@ https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles
 
 **Yol Yüzey Durumu**
 ----------------
+
+| Veri | Mapping |
+| --------------- | ----------------- | 
 | Dry | 5 |
 | Wet/Damp | 4 |
 | Frost/Ice | 3 |
