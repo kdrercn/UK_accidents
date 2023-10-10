@@ -137,4 +137,9 @@ Apriori algoritması ile benzer çalışır. Apriori algoritmasında eleman bazl
 
     Korelasyon ve algoritma işlemleri için One Hot Encoding yapıldı.
 
+10.10.2023:
+
+    Yazılan kodların okunabilirliği arttırıldı.
+
+    Outlier veriler tespit edildi.
     
