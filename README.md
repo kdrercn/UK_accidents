@@ -142,4 +142,6 @@ Apriori algoritması ile benzer çalışır. Apriori algoritmasında eleman bazl
     Yazılan kodların okunabilirliği arttırıldı.
 
     Outlier veriler tespit edildi.
+
+    Apriori, FP Growth algoritmalarına veri seti üzerinde giriş yapıldı.
     
