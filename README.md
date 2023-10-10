@@ -143,5 +143,9 @@ Apriori algoritması ile benzer çalışır. Apriori algoritmasında eleman bazl
 
     Outlier veriler tespit edildi.
 
+    Clustering işlemleri yapıldı.
+
+11.10.2023
+
     Apriori, FP Growth algoritmalarına veri seti üzerinde giriş yapıldı.
     
