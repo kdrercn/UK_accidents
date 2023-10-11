@@ -147,5 +147,9 @@ Apriori algoritması ile benzer çalışır. Apriori algoritmasında eleman bazl
 
 11.10.2023
 
+    Diğer clustering algoritmaları hakkında bilgi edinildi.
+
+    Clustering işlemlerine devam edildi.
+
     Apriori, FP Growth algoritmalarına veri seti üzerinde giriş yapıldı.
     
