@@ -153,3 +153,6 @@ Apriori algoritması ile benzer çalışır. Apriori algoritmasında eleman bazl
 
     Apriori, FP Growth algoritmalarına veri seti üzerinde giriş yapıldı.
     
+to-do:
+
+    Kazaları, miktarına göre renklendirerek district üzerinde göster.
