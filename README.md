@@ -152,7 +152,13 @@ Apriori algoritması ile benzer çalışır. Apriori algoritmasında eleman bazl
     Clustering işlemlerine devam edildi.
 
     Apriori, FP Growth algoritmalarına veri seti üzerinde giriş yapıldı.
-    
-to-do:
 
-    Kazaları, miktarına göre renklendirerek district üzerinde göster.
+13.10.2023:
+
+    Kazalar districtlere göre ve yıllara göre ayırıldı.
+
+    Veri görselleştirme için hazırlandı.
+
+    Veri Görselleştirme aracı olan Tableau kullanılarak kazaları districte göre ve yoğunluğuna göre harita üzerinde gösterildi.
+    
+    https://public.tableau.com/shared/Y2X6DY3KJ?:display_count=n&:origin=viz_share_link
