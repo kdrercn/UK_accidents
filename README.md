@@ -1,4 +1,4 @@
-# Veri Seti için:
+# Veri Seti :
 
 ## https://www.kaggle.com/datasets/daveianhickey/2000-16-traffic-flow-england-scotland-wales/download?datasetVersionNumber=10
 ## Local UK Authorities data (uk_lad.geojson) : https://files.planning.data.gov.uk/dataset/local-authority-district.geojson
@@ -162,3 +162,11 @@ Apriori algoritması ile benzer çalışır. Apriori algoritmasında eleman bazl
     Veri Görselleştirme aracı olan Tableau kullanılarak kazaları districte göre ve yoğunluğuna göre harita üzerinde gösterildi.
     
     https://public.tableau.com/shared/Y2X6DY3KJ?:display_count=n&:origin=viz_share_link
+
+20.10.2023:
+
+    Tableau'daki görselleştirmede veri setinden dolayı sadece posta kodu ile seçenek seçiliyordu. Veri setine posta kodlarının district isimleri eklendi ve Tableau üzerinde district isminden seçim yapılabilmesi sağlandı.
+    
+    https://public.tableau.com/shared/Y2X6DY3KJ?:display_count=n&:origin=viz_share_link
+
+    Tarih, Yaralı sayısı, Yoldaki hız limiti, Hava durumu, Kasaba mı Şehir mi, Işıklandırma durumu, Yol yüzeyinin durumu (Kuru, ıslak...) verileri yapay sinir ağı modeli ile eğitilerek konum tahmini yapıldı.
